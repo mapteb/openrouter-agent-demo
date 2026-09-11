@@ -3,7 +3,7 @@ A simple example usage for [openrouter](https://openrouter.ai/) with one agent a
 
 ## Usage
 
-```
+
 1. Clone the repo
    git clone  https://github.com/mapteb/openrouter-agent-demo.git
 
@@ -18,4 +18,3 @@ A simple example usage for [openrouter](https://openrouter.ai/) with one agent a
    Here is a screenshot of the prompt usage:
 
    ![Shipping Cost](shipping-cost.png)  
-```
